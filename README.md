@@ -9,7 +9,7 @@ Enfocado a demostrar competencias reales alineadas con tareas de **operaciones I
 
 Este repositorio sirve como **evidencia práctica** de:
 
-- Administración de sistemas Linux y Windows
+- Administración de sistemas Linux y Windows 
 - Fundamentos de redes y servicios
 - Cloud (AWS)
 - Seguridad defensiva y ofensiva básica
