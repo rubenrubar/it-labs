@@ -1,4 +1,4 @@
-# 🐧 Linux Labs - Administración y Operaciones
+#  Linux Labs - Administración y Operaciones
 
 Repositorio dedicado a la documentación de laboratorios prácticos sobre administración de sistemas Linux, orientado a perfiles de **Junior Sysadmin, NOC y Cloud Security**.
 
